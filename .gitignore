@@ -2,6 +2,7 @@
 **/obj
 /*.user
 .vs
+.history
 Archive
 GameData/**/LICENSE*
 GameData/**/NOTICE
